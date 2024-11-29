@@ -10,3 +10,6 @@
 - **Usabilidade e Funcionalidade**: Limitar as funcionalidades visíveis para aumentar a usabilidade e deixar mais intuitivo, porém pode comprometer a disponibilidade das funcionalidades complexas para usuários avançados que venham a precisar.   
 - **Desempenho e Segurança**: A otimização do desempenho pode vir atráves do armazenamento dos dados em cache, possibilitando uma diminuição do tempo de resposta, entretanto, o uso excessivo de cache com dados sensíveis, sem criptografia, poderá gerar riscos aos dados. Ou seja, caso opte pelo desempenho, medidas para proteção de cache devem ser implementadas.
 - **Escalabilidade e Custos**: O aumento da escalabilidade acrescentará custos a mais para o software, porém aumentará o número de acessos ao sistema. Sendo assim, você deve decidir entre ampliar a escalabilidade ou manter os custos sob controle.
+
+**Projeto Java com JUnit testes**
+- [Acesse o projeto](EngSW/Exercicio)
