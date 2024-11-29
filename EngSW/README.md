@@ -13,3 +13,7 @@
 
 **Projeto Java com JUnit testes**
 - [Acesse o projeto](EngSW/Exercicio)
+
+**UML**
+
+![Captura de tela 2024-11-29 165557](https://github.com/user-attachments/assets/0020b539-bd4c-4174-ac5d-862e4338401e)
