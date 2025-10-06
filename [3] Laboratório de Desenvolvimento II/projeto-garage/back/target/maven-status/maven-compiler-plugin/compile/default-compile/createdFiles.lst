@@ -1,0 +1,4 @@
+com\example\garage\repository\CarRepository.class
+com\example\garage\controller\CarController.class
+com\example\garage\model\Car.class
+com\garage\GarageApplication.class

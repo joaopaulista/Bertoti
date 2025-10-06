@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Garagem CRUD</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Garagem</h1>
+
+<form id="car-form">
+    <input type="hidden" id="car-id">
+    <input type="text" id="brand" placeholder="Marca" required>
+    <input type="text" id="model" placeholder="Modelo" required>
+    <input type="number" id="year" placeholder="Ano" required>
+    <input type="text" id="type" placeholder="Tipo (SUV, Sedan...)" required>
+    <button type="submit">Salvar</button>
+</form>
+
+<h2>Lista de Carros</h2>
+<table border="1">
+    <thead>
+    <tr>
+        <th>Marca</th>
+        <th>Modelo</th>
+        <th>Ano</th>
+        <th>Tipo</th>
+        <th>Ações</th>
+    </tr>
+    </thead>
+    <tbody id="car-table-body">
+    </tbody>
+</table>
+
+<script src="script.js"></script>
+</body>
+</html>
