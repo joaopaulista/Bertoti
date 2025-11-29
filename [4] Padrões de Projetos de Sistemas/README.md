@@ -43,10 +43,10 @@ O **Composite** permite compor objetos em estruturas de árvore e trabalhar com 
 
 ### UML
 #### Pattern
-![Composite UML](.\composite\pattern\uml-observer-pattern.png)
+![Composite UML](.\composite\pattern\uml-composite-pattern.png)
 
 #### Anti-pattern
-![Composite Anti-pattern UML](.\composite\antipattern\anti_pattern_uml.png)
+![Composite Anti-pattern UML](.\composite\antipattern\uml-composite-antipattern.png)
 
 ---
 
