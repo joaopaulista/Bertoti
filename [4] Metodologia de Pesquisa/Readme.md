@@ -2,15 +2,20 @@
 
 ## Introdução
 
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
+Sou estudante de Banco de Dados na FATEC (turma 2024 – 1º semestre) e sempre tive afinidade com a área de exatas. Desde o ensino médio despertei interesse por tecnologia, influenciado pelo contato com o trabalho do meu pai em suporte de TI. Esse ambiente despertou meu gosto por hardware e, posteriormente, por automação e desenvolvimento de software.
+
+Buscando experiência prática, comecei a estudar linguagens de programação e a fazer cursos na área. Desde então, estou inserido no mundo da tecnologia, evoluindo continuamente e desenvolvendo projetos acadêmicos que fortaleceram meu conhecimento técnico.
+
+![João](".\Imagens\perfil.jpg"")
 
 ## Contatos
-* [GIT](https://www.git.com)
-* [LinkedIn](https://www.linkedin.com)
+* [GIT](https://github.com/joaopaulista)
+* [LinkedIn](https://www.linkedin.com/in/joaopaulista/)
 
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+Desenvolvimento backend e banco de dados: possuo conhecimento para desenvolver aplicações utilizando essas tecnologias, com foco em lógica de negócio, integração e manipulação eficiente de dados.
 
+Metodologias ágeis: tenho facilidade com práticas ágeis, o que fortalece meu acompanhamento de projetos e a colaboração com equipes, contribuindo para organização, produtividade e entregas contínuas.
 
 ## Meus Projetos
 

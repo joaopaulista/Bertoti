@@ -5,47 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5af939e3-9c03-49a9-83ab-b78b38612c7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adapter/antipattern/AdapterAntiPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adapter/antipattern/LegacySensorCoupled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adapter/pattern/AdapterPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adapter/pattern/LegacyFahrenheitSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adapter/pattern/SensorAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adapter/pattern/TemperatureSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composite/antipattern/CompositeAntiPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composite/antipattern/FileCoupled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composite/antipattern/FolderCoupled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composite/pattern/CompositePatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composite/pattern/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composite/pattern/FileSystemItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composite/pattern/Folder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/observer/antipattern/ObserverAntiPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/observer/antipattern/SubscriberCoupled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/observer/antipattern/YoutubeChannelCoupled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/observer/pattern/ObserverPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/observer/pattern/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/observer/pattern/YoutubeChannel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy/antipattern/ShoppingCartCoupled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy/antipattern/StrategyAntiPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy/pattern/CreditCardPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy/pattern/PaymentStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy/pattern/PixPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy/pattern/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy/pattern/StrategyPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy_observer_composite/ECommerceSystemDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy_observer_composite/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy_observer_composite/controller/BlackFridayPricing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy_observer_composite/controller/IOrderObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy_observer_composite/controller/IPricingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy_observer_composite/controller/OrderContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy_observer_composite/controller/OrderNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy_observer_composite/controller/RegularPricing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy_observer_composite/model/IProductItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy_observer_composite/model/ProductBundle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy_observer_composite/model/SingleProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategy_observer_composite/view/LogDisplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
