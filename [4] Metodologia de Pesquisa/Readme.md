@@ -20,34 +20,28 @@ Metodologias ágeis: tenho facilidade com práticas ágeis, o que fortalece meu 
 ## Meus Projetos
 
 ### Em 2021-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+📌 Empresa Parceira — Altave
+
+A Altave é uma empresa especializada em tecnologias de monitoramento e soluções que aumentam a eficiência operacional em ambientes complexos, como portos e áreas industriais. Para este projeto, buscou uma ferramenta capaz de oferecer maior controle sobre equipes terceirizadas responsáveis pela manutenção de navios.
+
+📌 Problema
+
+A manutenção naval envolve altos custos e riscos de atraso, que podem gerar prejuízos milionários ao proprietário da embarcação. Sem um sistema adequado de acompanhamento, torna-se difícil monitorar presença, horas trabalhadas e produtividade das equipes terceirizadas, comprometendo a transparência e o cumprimento dos prazos.
+
+📌 Solução Desenvolvida — Sistema de Ponto e Relatórios
+
+A equipe SQLutions desenvolveu um Sistema de Ponto que registra entradas, saídas e horas trabalhadas, além de dashboards e relatórios gerenciais. A solução oferece monitoramento claro e automatizado das movimentações dos funcionários, trazendo mais controle, organização e segurança para as operações de manutenção naval.
 
 [GIT](https://www.git.com)
 
 #### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+Foi utilizado as seguintes tecnologias: Vue, Java, PostgreSQL, GitHub, Git, Slack, Notion e Figma.
 
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+Fiz um trabalho focado em desenvolver a lógica no Backend da aplicação, lógicas e regras de negócios foram implementações que atuei. Utilizando o Spring Boot ficou tudo mais fácil, com uma estrutura pronta e com utilidades que facilitam o desenvolvimento das lógicas.
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+Desenvolvi mais consciência e lógica com o Java Spring Boot e código limpo e de fácil manutenção.
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
-
-### Em 2022-1
-Mesmo formato
-
-### Em 2022-2
-Mesmo formato
-
-### Em 2023-1
-Mesmo formato
-
-### Em 2023-2
-Mesmo formato
-
-
-descrição
-tecnologias utilizadas
+Comunicação e resiliência foram habilidades fundamentais para o desenvolvimento de tal projeto, respectivamente, expressar dificuldades e não deixar se levar pelos erros constantementes apresentados nas linhas de código.
