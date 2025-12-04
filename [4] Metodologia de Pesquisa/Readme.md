@@ -32,7 +32,7 @@ A manutenção naval envolve altos custos e riscos de atraso, que podem gerar pr
 
 A equipe SQLutions desenvolveu um Sistema de Ponto que registra entradas, saídas e horas trabalhadas, além de dashboards e relatórios gerenciais. A solução oferece monitoramento claro e automatizado das movimentações dos funcionários, trazendo mais controle, organização e segurança para as operações de manutenção naval.
 
-[GIT](https://www.git.com)
+[GIT](https://github.com/SQLutions-FATEC/API-3-Semestre)
 
 #### Tecnologias Utilizadas
 Foi utilizado as seguintes tecnologias: Vue, Java, PostgreSQL, GitHub, Git, Slack, Notion e Figma.
